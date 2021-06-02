@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZBh02QVt9trjyb0a7t6LX5CYXfeCKMXq7gM48Id64A1QjUjVP4whQSR+Wj5z69/z9unXDSSftJ2khQJZgtGOw==",
+  "dgSpecHash": "V2M0YlQLWNhLIuEAcuHyNu+aLbLeIVMjZFHC19ungoQ5nRanWSeV5Q1xnTgINZ/viLHDRYw06qsKUdyxyEjHVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookstoreAPI\\BookstoreAPI.csproj",
+  "projectFilePath": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookstoreAPI\\BookstoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marc\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\Marc\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

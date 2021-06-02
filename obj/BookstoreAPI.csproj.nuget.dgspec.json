@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookstoreAPI\\BookstoreAPI.csproj": {}
+    "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookstoreAPI\\BookstoreAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookStore.Data\\BookStore.Data.csproj": {
+    "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookStore.Data\\BookStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookStore.Data\\BookStore.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookStore.Data\\BookStore.Data.csproj",
         "projectName": "BookStore.Data",
-        "projectPath": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookStore.Data\\BookStore.Data.csproj",
+        "projectPath": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookStore.Data\\BookStore.Data.csproj",
         "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookStore.Data\\obj\\",
+        "outputPath": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookStore.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookstoreAPI\\BookstoreAPI.csproj": {
+    "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookstoreAPI\\BookstoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookstoreAPI\\BookstoreAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookstoreAPI\\BookstoreAPI.csproj",
         "projectName": "BookstoreAPI",
-        "projectPath": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookstoreAPI\\BookstoreAPI.csproj",
+        "projectPath": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookstoreAPI\\BookstoreAPI.csproj",
         "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookstoreAPI\\obj\\",
+        "outputPath": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookstoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookStore.Data\\BookStore.Data.csproj": {
-                "projectPath": "C:\\Users\\Marc\\Desktop\\BookStoreAPI\\BookStore.Data\\BookStore.Data.csproj"
+              "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookStore.Data\\BookStore.Data.csproj": {
+                "projectPath": "C:\\Users\\Marc\\Desktop\\BookstoreAPI\\BookStore.Data\\BookStore.Data.csproj"
               }
             }
           }

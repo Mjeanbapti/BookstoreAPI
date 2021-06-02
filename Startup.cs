@@ -14,6 +14,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.OpenApi.Models;
 
 namespace BookstoreAPI
 {
@@ -42,7 +43,7 @@ namespace BookstoreAPI
             // Register the Swagger generator, defining 1 or more Swagger Documents
             services.AddSwaggerGen(c =>
            {
-               c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "The API", Version = "v1" });
+               c.SwaggerDoc("v1", new OpenApiInfo { Title = "The API", Version = "v1" });
            });
         }
 
@@ -77,7 +78,7 @@ namespace BookstoreAPI
             using (var serviceScope = app.ApplicationServices.GetService<IServiceScopeFactory>().CreateScope())
             {
                 var context = serviceScope.ServiceProvider.GetRequiredService<BookstoreContext>();
-                context.Database.EnsureDeleted();
+                //context.Database.EnsureDeleted();
                 context.Database.EnsureCreated();
             }
 
